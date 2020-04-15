@@ -8,6 +8,7 @@ Description About Data
 Hadi Fanaee-T at the University of Porto compiled this data into a CSV file, which you'll be working with in this project. The file contains 17380 rows, with each row representing the number of bike rentals for a single hour of a single day
 
 Columns
+
 instant - A unique sequential ID number for each row
 dteday - The date of the rentals
 season - The season in which the rentals occurred
